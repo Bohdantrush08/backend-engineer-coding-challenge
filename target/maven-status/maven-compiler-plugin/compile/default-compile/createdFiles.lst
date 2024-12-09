@@ -1,0 +1,4 @@
+com\backend\engineer\coding\challange\Application.class
+com\backend\engineer\coding\challange\controller\OccupancyController.class
+com\backend\engineer\coding\challange\service\OccupancyService.class
+com\backend\engineer\coding\challange\model\OccupancyRequest.class
